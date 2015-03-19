@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="65f01c61-bc25-472c-b604-c2c8c2ece7c1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gweepi.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3328424" vertical-offset="74294" max-vertical-offset="140535">
-              <caret line="4968" column="74" selection-start-line="4968" selection-start-column="74" selection-end-line="4968" selection-end-column="74" />
+            <state vertical-scroll-proportion="0.7083947" vertical-offset="76454" max-vertical-offset="140535">
+              <caret line="5129" column="198" selection-start-line="5129" selection-start-column="198" selection-end-line="5129" selection-end-column="198" />
               <folding>
                 <element signature="e#41386#45693#2" expanded="true" />
                 <element signature="e#94638#99047#2" expanded="true" />
@@ -328,6 +327,12 @@
     <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -849,8 +854,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3328424" vertical-offset="74294" max-vertical-offset="140535">
-          <caret line="4968" column="74" selection-start-line="4968" selection-start-column="74" selection-end-line="4968" selection-end-column="74" />
+        <state vertical-scroll-proportion="0.7083947" vertical-offset="76454" max-vertical-offset="140535">
+          <caret line="5129" column="198" selection-start-line="5129" selection-start-column="198" selection-end-line="5129" selection-end-column="198" />
           <folding>
             <element signature="e#41386#45693#2" expanded="true" />
             <element signature="e#94638#99047#2" expanded="true" />
