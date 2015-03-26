@@ -9342,6 +9342,8 @@ Tracking &amp; Management</span></p>
     backgroundTransition: SLConfig.deck.background_transition
   });
 
+
+
   if (window.hljs) hljs.initHighlightingOnLoad();
 
 </script>
@@ -9354,6 +9356,11 @@ Tracking &amp; Management</span></p>
 
   ga('create', 'UA-4472173-8', 'auto');
   ga('send', 'pageview');
+
+  Reveal.addEventListener( 'slidechanged', function( event ) {
+    // event.previousSlide, event.currentSlide, event.indexh, event.indexv
+    ga('send', 'pageview', "/"+event.indexv.toString()+".html");
+} );
 
 </script>
 
