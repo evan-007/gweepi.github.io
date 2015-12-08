@@ -1,0 +1,30 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.gweepi.com
+title: SmartAide™ by Gweepi Medical
+email: hello@gweepi.com
+author: Gweepi Medical, Inc.
+description: > # "Write an awesome description for your new site here.
+  Gweepi Medical Inc. Boston-Based Healthcare Innovator. Makers of the SmartAide™ system.
+copyright: 'Copyright &copy; 2015 Gweepi Medical Inc. All Rights Reserved.'
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/GweepiMedical
+  - title: github
+    url: https://github.com/Gweepi
+  - title: linkedin
+    url: https://www.linkedin.com/company/2695575

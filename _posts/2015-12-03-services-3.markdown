@@ -1,0 +1,10 @@
+---
+layout: default
+img: clinical.jpg
+category: Services
+title: Clinical Excellence
+description: |
+---
+*“I consider the Gweepi staff  as part of my team in helping us achieve our clinical/ financial goals”*
+
+Gweepi staffs a nurse consultant on every SNF to monitor the ongoing documentation practices and reporting. Consider it an extra set of eyes looking over your performance. We make clinical recommendations and work with you to optimize patient care and maximize reimbursement revenue.

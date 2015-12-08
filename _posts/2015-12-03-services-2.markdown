@@ -1,0 +1,11 @@
+---
+layout: default
+img: flowsheet.png
+category: Services
+title: Actionable Reports
+description: |
+---
+*“The SmartAide dashboard is organized to allow me to understand my staff’s progress and quickly assess the health of my patients”*
+
+
+Our Nurse Management Tool provides real-time insight into the health of your residents. Don’t wait weeks to pour through ADL data looking for trends or gaps. Receive real-time alerts on critical health indicators like bowel frequency or meal intake.
