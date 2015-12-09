@@ -7,4 +7,4 @@ description: |
 ---
 Our intuitive ADL tracking SmartAide™ system takes the guesswork out of delivering and documenting care. 
 
-SmartAide™ is an EHR integrated. secure, could-based solution on designed to improve the accuracy of the data that drives your care plans and bottom line.
+SmartAide™ is an EHR-integrated, secure, and cloud-based solution designed to improve the accuracy of the data that drives your care plans and bottom line.
